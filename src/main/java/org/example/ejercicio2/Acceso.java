@@ -2,7 +2,7 @@ package org.example.ejercicio2;
 
 import java.io.IOException;
 
-public class Acceso {
+public abstract class Acceso {
     String ruta;
     String nombreArchivo;
 
